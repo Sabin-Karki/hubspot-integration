@@ -1,6 +1,7 @@
 backend/venv/
 backend/__pycache__/
 backend/requirements.txt
+dump.rdb
 
 frontend/node_modules/
 
